@@ -2,7 +2,7 @@
 
 平时写decorate时，经常从其他decorate拷贝过来修改，对于其原理、语法、类型等并未做过深入的研究。多少有些知其然而不知其所以然，因此抽时间系统的总结了一下。
 
-## 背景知识铺垫
+## 背景知识
 
 1. 在python中，函数定义是object类型的对象。对象有如下特性：
 
@@ -368,10 +368,6 @@ Exception: This is an exception
 
 https://www.datacamp.com/community/tutorials/decorators-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377095&utm_targetid=dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=9061376&gclid=EAIaIQobChMI1aHrnZO-8AIVUUFgCh1m5g1gEAAYASAAEgLK7_D_BwE
 
-
-
 https://www.geeksforgeeks.org/decorators-in-python/
-
-
 
 https://zhuanlan.zhihu.com/p/78500405
